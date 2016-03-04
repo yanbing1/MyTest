@@ -1,0 +1,3 @@
+[submodule "YBiCloudDemo"]
+	path = YBiCloudDemo
+	url = https://github.com/yanbing1/YBiCloudDemo.git
